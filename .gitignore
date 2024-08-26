@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PowerPlantCodingChallenge/.vs/PowerPlantCodingChallenge
+/PowerPlantCodingChallenge/PowerPlantCodingChallenge/bin/Debug/net8.0
+/PowerPlantCodingChallenge/PowerPlantCodingChallenge/obj
+/PowerPlantCodingChallenge/PowerPlantCodingChallengeUnitTests/obj
